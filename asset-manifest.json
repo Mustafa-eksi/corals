@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/corals/static/css/main.957bd958.css",
+    "main.js": "/corals/static/js/main.4fc00599.js",
+    "static/js/787.31d1c603.chunk.js": "/corals/static/js/787.31d1c603.chunk.js",
+    "static/media/Chlorophyl Levels 2004.png": "/corals/static/media/Chlorophyl Levels 2004.bf90b92b0ac8c41c0e22.png",
+    "static/media/Chlorophyl Levels 2008.png": "/corals/static/media/Chlorophyl Levels 2008.49d4ecc45f0a6de9fea2.png",
+    "static/media/Chlorophyl Levels 2012.png": "/corals/static/media/Chlorophyl Levels 2012.d422ffbf8d7854111964.png",
+    "static/media/Chlorophyl Levels 2020.png": "/corals/static/media/Chlorophyl Levels 2020.c9b2da65d597a3152c82.png",
+    "static/media/Particulate Organic Carbon 2020.png": "/corals/static/media/Particulate Organic Carbon 2020.45ea14895542556d4f68.png",
+    "static/media/Chlorophyl Levels 2023.png": "/corals/static/media/Chlorophyl Levels 2023.ee22e3ba750a5c56aa72.png",
+    "static/media/Particulate Organic Carbon 2023.png": "/corals/static/media/Particulate Organic Carbon 2023.5f31fe2e603b7f78eb34.png",
+    "static/media/Chlorophyl Levels 2016.png": "/corals/static/media/Chlorophyl Levels 2016.6bc007af0fbfe078ee31.png",
+    "static/media/Particulate Organic Carbon 2007.png": "/corals/static/media/Particulate Organic Carbon 2007.87180c7bc53605ab65e3.png",
+    "static/media/Particulate Organic Carbon 2003.png": "/corals/static/media/Particulate Organic Carbon 2003.5d0c6d0f0a2837cdf107.png",
+    "static/media/Particulate Organic Carbon 2016.png": "/corals/static/media/Particulate Organic Carbon 2016.60250f956a1be54bbad1.png",
+    "static/media/Particulate Organic Carbon 2012.png": "/corals/static/media/Particulate Organic Carbon 2012.fa32ac417a2e872e5f5a.png",
+    "static/media/Surface Tempreture Jul 1 2023.png": "/corals/static/media/Surface Tempreture Jul 1 2023.0ab1ae922cae6d296ed3.png",
+    "static/media/Surface Tempreture Jul 1 2013.png": "/corals/static/media/Surface Tempreture Jul 1 2013.e45e50e346096fb8d549.png",
+    "static/media/Surface Tempreture Jul 1 2020.png": "/corals/static/media/Surface Tempreture Jul 1 2020.60e0084f7f02fefafce5.png",
+    "static/media/Surface Tempreture Jul 1 2007.png": "/corals/static/media/Surface Tempreture Jul 1 2007.74d5090db1da4854c2df.png",
+    "static/media/Surface Tempreture Jul 1 2004.png": "/corals/static/media/Surface Tempreture Jul 1 2004.cec9ff7964d22dc6499e.png",
+    "static/media/Surface Tempreture Jul 1 2017.png": "/corals/static/media/Surface Tempreture Jul 1 2017.85676ee6ae2be38a86e2.png",
+    "static/media/Surface Tempreture Jan 1 2006.png": "/corals/static/media/Surface Tempreture Jan 1 2006.fd1feefaa31654fa9b04.png",
+    "static/media/Surface Tempreture Jan 1 2014.png": "/corals/static/media/Surface Tempreture Jan 1 2014.a504ae0bbef88228db81.png",
+    "static/media/Surface Tempreture Jan 1 2022.png": "/corals/static/media/Surface Tempreture Jan 1 2022.ab69d64003264c71f597.png",
+    "static/media/Surface Tempreture Jan 1 2010.png": "/corals/static/media/Surface Tempreture Jan 1 2010.f0b31064e497641b6041.png",
+    "static/media/Surface Tempreture Jan 1 2018.png": "/corals/static/media/Surface Tempreture Jan 1 2018.4b1aae31760430b6001c.png",
+    "static/media/Surface Tempreture Jan 1 2004.png": "/corals/static/media/Surface Tempreture Jan 1 2004.ab14f609e047f80a1823.png",
+    "static/media/nasa_blue_marbel_waters_resized.jpg": "/corals/static/media/nasa_blue_marbel_waters_resized.c3a21a309bcae2b9b115.jpg",
+    "index.html": "/corals/index.html",
+    "main.957bd958.css.map": "/corals/static/css/main.957bd958.css.map",
+    "main.4fc00599.js.map": "/corals/static/js/main.4fc00599.js.map",
+    "787.31d1c603.chunk.js.map": "/corals/static/js/787.31d1c603.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.957bd958.css",
+    "static/js/main.4fc00599.js"
+  ]
+}
