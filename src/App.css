@@ -23,7 +23,7 @@
   background-color: #c9fffe;
   margin: 25px;
   padding: 25px;
-  padding-top: 0px;
+  padding-top: 20px;
   margin-top: 0px;
   border-radius: 25px;
 }
@@ -34,9 +34,12 @@
 }
 
 .map_button {
-  border-style: solid;
   margin-bottom: 10px;
   padding: 5px;
   border-radius: 20px;
   font-size: 20pt;
+}
+
+.date-slider {
+  width: 100%;
 }
